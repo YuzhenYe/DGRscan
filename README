@@ -1,0 +1,55 @@
+Package Name: DGRscan
+First Released on June 15, 2014
+Developer: Yuzhen Ye <yye@indiana.edu>
+Affiliation: School of Informatics and Computing, Indiana University, Bloomington
+
+The development of DGRscan was supported by NSF grants DBI-0845685 and DBI-1262588
+
+DGRscan is free software under the terms of the GNU General Public License as published by 
+the Free Software Foundation.
+
+>> Introduction
+
+DGRscan is a tool for identification of DGR systems from genomic sequences, which can be
+whole genomes, contigs, or even short reads.
+
+DGRscan is written in python, so it is ready to run
+
+>> What's in the package
+
+DGRscan.py -- the main python program
+data -- the data folder, which contains known reverse transcriptases (RT) and known template sequences (TR)
+tests -- the folder with example sequences for testing the program
+
+>> Third party programs that might be needed
+DGRscan.py does not rely on any third party software; 
+however, if you want to use RT/TR predictions to constrain/guide the prediction, 
+you need to use the BLAST suite for the similarity searches. 
+
+>> Using DGRscan
+DGRscan supports de novo predictions or similarity search based predictions of DGR systems.
+Usage: type ./DGRscan for usages
+
+>> Examples (under tests/ folder)
+
+You may call a simple script (commands.sh) under tests/ folder to run all three tests:
+
+A little more details on the tests:
+
+Example 1: De novo prediction in a short input genomic sequence
+Input sequence file: small.seq
+Command:
+../DGRscan.py -inseq small.seq -summary small-DGRscan.summary
+Note: DGRscan should report a potential TR-VR pair in this sequence
+
+Example 2: De novo prediction of DGR system in a complete genome using RT predictions to constrain the search space
+Input sequence: FQ312004.fna ( Bacteroides fragilis 638R genome)
+Command:
+../DGRscan.py -inseq FQ312004.fna -summary FQ312004-DGRscan.summary -rev_hom FQ312004-vs-RT155.m8
+(Note: FQ312004-vs-RT155.m8 is the blastall or blastx results of potential RTs)
+
+Example 3: Similarity search based predictions of DGR systems
+Input sequence: FQ312004.fna
+Command:
+../DGRscan.py -inseq FQ312004.fna -summary FQ312004-DGRscan-hom.summary -tr_hom FQ312004-vs-TR.m8
+(Note: FQ312004-vs-TR.m8 is the blastall or blastn results of potential TRs & VRs)
