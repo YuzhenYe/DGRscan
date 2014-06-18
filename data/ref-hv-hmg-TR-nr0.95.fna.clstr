@@ -1,0 +1,1365 @@
+>Cluster 0
+0	167nt, >SRS015209.scaffolds... at +/99.40%
+1	163nt, >SRS015941.scaffolds... at +/99.39%
+2	160nt, >SRS016002.scaffolds... at +/99.38%
+3	187nt, >SRS017808.scaffolds... at +/99.47%
+4	128nt, >SRS019126.scaffolds... at +/98.44%
+5	128nt, >SRS019127.scaffolds... at +/98.44%
+6	169nt, >SRS019219.scaffolds... at +/100.00%
+7	182nt, >SRS020220.scaffolds... at +/100.00%
+8	188nt, >SRS023352.scaffolds... at +/99.47%
+9	176nt, >SRS044373.scaffolds... at +/100.00%
+10	188nt, >SRS045715.scaffolds... at +/99.47%
+11	165nt, >SRS057539.scaffolds... at +/100.00%
+12	163nt, >SRS057791.scaffolds... at +/99.39%
+13	195nt, >SRS064423.scaffolds... *
+14	195nt, >SRS065278.scaffolds... at +/100.00%
+>Cluster 1
+0	170nt, >SRS014459.scaffolds... at +/100.00%
+1	167nt, >SRS015782.scaffolds... at +/98.80%
+2	179nt, >SRS015960.scaffolds... at +/100.00%
+3	155nt, >SRS017821.scaffolds... at +/98.71%
+4	192nt, >SRS024625.scaffolds... *
+>Cluster 2
+0	135nt, >SRS015960.scaffolds... at +/100.00%
+1	162nt, >SRS016095.scaffolds... at +/100.00%
+2	181nt, >SRS017521.scaffolds... *
+3	173nt, >SRS056259.scaffolds... at +/97.11%
+>Cluster 3
+0	180nt, >Bfra_638R_TR1... *
+1	168nt, >SRS022713.scaffolds... at +/100.00%
+2	180nt, >SRS049995.scaffolds... at +/100.00%
+3	168nt, >SRS057478.scaffolds... at +/100.00%
+4	168nt, >SRS077730.scaffolds... at +/99.40%
+>Cluster 4
+0	172nt, >SRS016989.scaffolds... at +/97.09%
+1	158nt, >SRS017521.scaffolds... at +/96.84%
+2	125nt, >SRS052027.scaffolds... at +/96.00%
+3	180nt, >SRS056259.scaffolds... *
+>Cluster 5
+0	176nt, >SRS014613.scaffolds... *
+1	176nt, >SRS064276.scaffolds... at +/100.00%
+>Cluster 6
+0	175nt, >SRS023352.scaffolds... *
+1	175nt, >SRS045715.scaffolds... at +/100.00%
+>Cluster 7
+0	173nt, >Bthe_VPI-5482_TR1... *
+1	160nt, >SRS045645.scaffolds... at +/100.00%
+2	169nt, >SRS048870.scaffolds... at +/100.00%
+3	139nt, >SRS053214.scaffolds... at +/99.28%
+4	134nt, >SRS078176.scaffolds... at +/100.00%
+>Cluster 8
+0	169nt, >SRS015941.scaffolds... *
+1	154nt, >SRS019045.scaffolds... at +/100.00%
+>Cluster 9
+0	166nt, >SRS016335.scaffolds... *
+1	166nt, >SRS047014.scaffolds... at +/100.00%
+2	166nt, >SRS049164.scaffolds... at +/100.00%
+>Cluster 10
+0	163nt, >SRS048870.scaffolds... *
+>Cluster 11
+0	162nt, >SRS016095.scaffolds... *
+>Cluster 12
+0	162nt, >SRS053603.scaffolds... *
+>Cluster 13
+0	160nt, >SRS019582.scaffolds... *
+>Cluster 14
+0	158nt, >hv-20... *
+>Cluster 15
+0	156nt, >SRS018739.scaffolds... *
+>Cluster 16
+0	155nt, >Tden_ATCC35405_TR1... *
+>Cluster 17
+0	146nt, >SRS020328.scaffolds... at +/100.00%
+1	155nt, >SRS022137.scaffolds... *
+>Cluster 18
+0	154nt, >SRS063985.scaffolds... *
+>Cluster 19
+0	151nt, >SRS013951.scaffolds... *
+>Cluster 20
+0	150nt, >Tery_IMS101_TR1... *
+>Cluster 21
+0	149nt, >SRS023914.scaffolds... *
+>Cluster 22
+0	148nt, >Lpne_Corby_TR1... *
+>Cluster 23
+0	148nt, >Robe_ATCC29174_TR2... *
+>Cluster 24
+0	148nt, >SRS015663.scaffolds... *
+>Cluster 25
+0	146nt, >SRS011302.scaffolds... *
+>Cluster 26
+0	144nt, >Caci_TR1... *
+>Cluster 27
+0	144nt, >SRS015133.scaffolds... *
+>Cluster 28
+0	143nt, >SRS021484.scaffolds... *
+1	143nt, >SRS050752.scaffolds... at +/100.00%
+>Cluster 29
+0	143nt, >SRS064276.scaffolds... *
+>Cluster 30
+0	142nt, >SRS013951.scaffolds... *
+>Cluster 31
+0	142nt, >SRS014923.scaffolds... *
+1	142nt, >SRS050925.scaffolds... at +/100.00%
+>Cluster 32
+0	140nt, >SRS019161.scaffolds... *
+>Cluster 33
+0	139nt, >Apho_UW-1_TR1... *
+>Cluster 34
+0	139nt, >SRS049995.scaffolds... *
+>Cluster 35
+0	139nt, >SRS049995.scaffolds... *
+>Cluster 36
+0	139nt, >SRS054956.scaffolds... *
+>Cluster 37
+0	137nt, >Nost_PCC7120_TR1... at +/95.62%
+1	138nt, >Npun_PCC73102_TR2... *
+>Cluster 38
+0	137nt, >Rgna_ATCC29149_TR2... *
+1	126nt, >SRS011271.scaffolds... at +/100.00%
+>Cluster 39
+0	137nt, >SRS015264.scaffolds... *
+>Cluster 40
+0	136nt, >Sbal_OS155_TR1... *
+>Cluster 41
+0	136nt, >SRS014923.scaffolds... *
+>Cluster 42
+0	136nt, >SRS016335.scaffolds... *
+1	136nt, >SRS049164.scaffolds... at +/100.00%
+>Cluster 43
+0	134nt, >Bphage_BPP-1_TR1... *
+>Cluster 44
+0	134nt, >Pang_S14_TR1... *
+>Cluster 45
+0	134nt, >Tsib_ATCC700588_TR2... *
+>Cluster 46
+0	134nt, >SRS017701.scaffolds... *
+>Cluster 47
+0	134nt, >SRS022137.scaffolds... *
+>Cluster 48
+0	134nt, >SRS050299.scaffolds... *
+>Cluster 49
+0	69nt, >SRS017307.scaffolds... at +/100.00%
+1	134nt, >SRS050925.scaffolds... *
+>Cluster 50
+0	133nt, >Lmaj_3L_TR1... *
+>Cluster 51
+0	133nt, >hv-4... *
+1	93nt, >SRS022609.scaffolds... at +/100.00%
+2	130nt, >SRS052697.scaffolds... at +/100.00%
+>Cluster 52
+0	96nt, >SRS011405.scaffolds... at +/98.96%
+1	133nt, >SRS013687.scaffolds... *
+2	133nt, >SRS014923.scaffolds... at +/100.00%
+3	133nt, >SRS017307.scaffolds... at +/100.00%
+4	133nt, >SRS020328.scaffolds... at +/100.00%
+5	133nt, >SRS021948.scaffolds... at +/100.00%
+6	133nt, >SRS047044.scaffolds... at +/100.00%
+7	133nt, >SRS050422.scaffolds... at +/100.00%
+8	133nt, >SRS050925.scaffolds... at +/100.00%
+9	133nt, >SRS052697.scaffolds... at +/100.00%
+10	133nt, >SRS078176.scaffolds... at +/100.00%
+>Cluster 53
+0	133nt, >SRS018351.scaffolds... *
+>Cluster 54
+0	132nt, >SRS014459.scaffolds... *
+>Cluster 55
+0	132nt, >SRS016056.scaffolds... *
+>Cluster 56
+0	97nt, >SRS014923.scaffolds... at +/100.00%
+1	132nt, >SRS050925.scaffolds... *
+>Cluster 57
+0	131nt, >Buni_ATCC8492_TR1... *
+1	131nt, >SRS017433.scaffolds... at +/100.00%
+>Cluster 58
+0	131nt, >hv-25... *
+1	119nt, >SRS015264.scaffolds... at +/100.00%
+2	129nt, >SRS054956.scaffolds... at +/96.90%
+>Cluster 59
+0	131nt, >SRS020328.scaffolds... *
+>Cluster 60
+0	131nt, >SRS023914.scaffolds... *
+>Cluster 61
+0	130nt, >Tsul_HL-EbGr7_TR1... *
+>Cluster 62
+0	130nt, >Elen_DSM2243_TR1... *
+>Cluster 63
+0	130nt, >SRS014923.scaffolds... *
+1	128nt, >SRS018351.scaffolds... at +/100.00%
+2	130nt, >SRS051031.scaffolds... at +/100.00%
+3	128nt, >SRS051031.scaffolds... at +/100.00%
+>Cluster 64
+0	130nt, >SRS019582.scaffolds... *
+>Cluster 65
+0	114nt, >SRS045004.scaffolds... at +/100.00%
+1	130nt, >SRS047044.scaffolds... *
+2	130nt, >SRS065504.scaffolds... at +/100.00%
+>Cluster 66
+0	129nt, >Caer_ATCC25986_TR2... *
+>Cluster 67
+0	129nt, >Cint_DSM13280_TR1... *
+>Cluster 68
+0	129nt, >SRS011239.scaffolds... *
+1	128nt, >SRS064276.scaffolds... at +/96.09%
+>Cluster 69
+0	129nt, >SRS014235.scaffolds... *
+1	129nt, >SRS014235.scaffolds... at +/100.00%
+2	129nt, >SRS019582.scaffolds... at +/100.00%
+3	129nt, >SRS019582.scaffolds... at +/100.00%
+4	129nt, >SRS024435.scaffolds... at +/100.00%
+5	129nt, >SRS024435.scaffolds... at +/100.00%
+6	129nt, >SRS048870.scaffolds... at +/100.00%
+>Cluster 70
+0	129nt, >SRS016541.scaffolds... *
+>Cluster 71
+0	129nt, >SRS019787.scaffolds... *
+>Cluster 72
+0	87nt, >SRS019161.scaffolds... at +/100.00%
+1	129nt, >SRS022609.scaffolds... *
+2	129nt, >SRS050925.scaffolds... at +/98.45%
+>Cluster 73
+0	126nt, >Bact_3_1_23_TR1... at +/98.41%
+1	126nt, >hv-18... at +/97.62%
+2	126nt, >hv-28... at +/97.62%
+3	92nt, >SRS011586.scaffolds... at +/97.83%
+4	126nt, >SRS014287.scaffolds... at +/98.41%
+5	119nt, >SRS014923.scaffolds... at +/97.48%
+6	126nt, >SRS015190.scaffolds... at +/97.62%
+7	126nt, >SRS017307.scaffolds... at +/98.41%
+8	126nt, >SRS022137.scaffolds... at +/97.62%
+9	126nt, >SRS022713.scaffolds... at +/100.00%
+10	126nt, >SRS023346.scaffolds... at +/98.41%
+11	129nt, >SRS042284.scaffolds... *
+12	126nt, >SRS043411.scaffolds... at +/97.62%
+13	126nt, >SRS045645.scaffolds... at +/97.62%
+14	126nt, >SRS048164.scaffolds... at +/98.41%
+15	112nt, >SRS050925.scaffolds... at +/97.32%
+16	126nt, >SRS052027.scaffolds... at +/98.41%
+17	126nt, >SRS052697.scaffolds... at +/98.41%
+18	126nt, >SRS055982.scaffolds... at +/97.62%
+19	82nt, >SRS056259.scaffolds... at +/97.56%
+20	126nt, >SRS057478.scaffolds... at +/100.00%
+21	126nt, >SRS057717.scaffolds... at +/98.41%
+22	126nt, >SRS062427.scaffolds... at +/98.41%
+>Cluster 74
+0	124nt, >SRS013521.scaffolds... at +/100.00%
+1	129nt, >SRS050925.scaffolds... *
+>Cluster 75
+0	129nt, >SRS063985.scaffolds... *
+>Cluster 76
+0	128nt, >Dred_MI-1_TR1... *
+>Cluster 77
+0	128nt, >Ppha_BU-1_TR2... *
+>Cluster 78
+0	128nt, >Cste_DSM13279_TR1... *
+>Cluster 79
+0	128nt, >hv-19... *
+>Cluster 80
+0	128nt, >hv-21... *
+1	128nt, >hv-24... at +/98.44%
+2	128nt, >SRS015264.scaffolds... at +/99.22%
+3	128nt, >SRS023526.scaffolds... at +/98.44%
+4	128nt, >SRS042628.scaffolds... at +/97.66%
+5	128nt, >SRS054956.scaffolds... at +/99.22%
+>Cluster 81
+0	128nt, >hv-23... *
+1	76nt, >SRS024132.scaffolds... at +/97.37%
+2	128nt, >SRS048164.scaffolds... at +/100.00%
+3	128nt, >SRS050752.scaffolds... at +/100.00%
+4	128nt, >SRS065504.scaffolds... at +/100.00%
+>Cluster 82
+0	128nt, >hv-27... *
+1	128nt, >SRS013951.scaffolds... at +/100.00%
+>Cluster 83
+0	128nt, >SRS011271.scaffolds... *
+1	128nt, >SRS016056.scaffolds... at +/100.00%
+2	128nt, >SRS017433.scaffolds... at +/96.88%
+3	128nt, >SRS022137.scaffolds... at +/96.88%
+4	128nt, >SRS022524.scaffolds... at +/96.88%
+5	128nt, >SRS023526.scaffolds... at +/100.00%
+6	128nt, >SRS024075.scaffolds... at +/96.88%
+7	128nt, >SRS049995.scaffolds... at +/96.88%
+8	128nt, >SRS050422.scaffolds... at +/96.88%
+9	128nt, >SRS050752.scaffolds... at +/100.00%
+10	128nt, >SRS053214.scaffolds... at +/96.88%
+11	128nt, >SRS053335.scaffolds... at +/96.88%
+12	128nt, >SRS055982.scaffolds... at +/96.88%
+13	128nt, >SRS056519.scaffolds... at +/96.88%
+14	128nt, >SRS058770.scaffolds... at +/96.88%
+15	128nt, >SRS077730.scaffolds... at +/96.88%
+>Cluster 84
+0	128nt, >SRS014459.scaffolds... *
+1	75nt, >SRS048870.scaffolds... at +/100.00%
+>Cluster 85
+0	128nt, >SRS021484.scaffolds... *
+>Cluster 86
+0	128nt, >SRS022524.scaffolds... *
+>Cluster 87
+0	127nt, >Cbol_ATCC-BAA-613_T... *
+1	127nt, >SRS015794.scaffolds... at +/100.00%
+2	123nt, >SRS049995.scaffolds... at +/100.00%
+>Cluster 88
+0	127nt, >Thio_970_TR1... *
+>Cluster 89
+0	127nt, >Pdis_ATCC8503_TR1... *
+1	75nt, >SRS015960.scaffolds... at +/97.33%
+>Cluster 90
+0	127nt, >SRS011586.scaffolds... *
+>Cluster 91
+0	127nt, >SRS024388.scaffolds... *
+1	127nt, >SRS050299.scaffolds... at +/100.00%
+2	124nt, >SRS053214.scaffolds... at +/100.00%
+3	118nt, >SRS077730.scaffolds... at +/100.00%
+>Cluster 92
+0	127nt, >SRS048870.scaffolds... *
+1	127nt, >SRS056519.scaffolds... at +/99.21%
+>Cluster 93
+0	126nt, >Rvan_ATCC17100_TR1... *
+>Cluster 94
+0	126nt, >Fpra_KLE1255_TR1... *
+1	126nt, >hv-9... at +/100.00%
+2	126nt, >SRS011302.scaffolds... at +/100.00%
+3	126nt, >SRS014459.scaffolds... at +/100.00%
+4	126nt, >SRS015065.scaffolds... at +/100.00%
+5	126nt, >SRS024075.scaffolds... at +/100.00%
+6	126nt, >SRS053214.scaffolds... at +/100.00%
+>Cluster 95
+0	126nt, >SRS014459.scaffolds... *
+1	126nt, >SRS014979.scaffolds... at +/98.41%
+2	126nt, >SRS016335.scaffolds... at +/100.00%
+3	116nt, >SRS019161.scaffolds... at +/99.14%
+4	126nt, >SRS052027.scaffolds... at +/100.00%
+5	126nt, >SRS065504.scaffolds... at +/98.41%
+>Cluster 96
+0	126nt, >SRS020233.scaffolds... *
+>Cluster 97
+0	76nt, >SRS016335.scaffolds... at +/96.05%
+1	126nt, >SRS063040.scaffolds... *
+>Cluster 98
+0	125nt, >Cpha_DSM266_TR1... *
+>Cluster 99
+0	125nt, >Nspu_CCY9414_TR2... *
+>Cluster 100
+0	125nt, >Cyan_CCY0110_TR4... *
+>Cluster 101
+0	125nt, >Glov_SZ-TR_TR1... *
+>Cluster 102
+0	125nt, >Rbac_D16_TR3... *
+>Cluster 103
+0	125nt, >Erec_DSM17629_TR1... *
+1	124nt, >SRS017821.scaffolds... at +/100.00%
+2	123nt, >SRS054956.scaffolds... at +/100.00%
+3	124nt, >SRS057717.scaffolds... at +/100.00%
+4	124nt, >SRS065504.scaffolds... at +/100.00%
+>Cluster 104
+0	125nt, >SRS024075.scaffolds... *
+>Cluster 105
+0	125nt, >SRS050925.scaffolds... *
+>Cluster 106
+0	124nt, >Cyan_CCY0110_TR2... *
+>Cluster 107
+0	124nt, >Csci_ATCC35704_TR1... *
+>Cluster 108
+0	124nt, >Mpur_984_TR1... *
+>Cluster 109
+0	124nt, >Fpra_M21-2_TR1... *
+>Cluster 110
+0	124nt, >SRS011586.scaffolds... *
+>Cluster 111
+0	124nt, >SRS012273.scaffolds... *
+>Cluster 112
+0	124nt, >SRS014683.scaffolds... *
+>Cluster 113
+0	124nt, >SRS016095.scaffolds... *
+>Cluster 114
+0	124nt, >SRS017701.scaffolds... *
+>Cluster 115
+0	124nt, >SRS019910.scaffolds... *
+1	124nt, >SRS053214.scaffolds... at +/98.39%
+>Cluster 116
+0	124nt, >SRS020328.scaffolds... *
+>Cluster 117
+0	124nt, >SRS049995.scaffolds... *
+>Cluster 118
+0	124nt, >SRS064276.scaffolds... *
+>Cluster 119
+0	123nt, >hv-10... *
+>Cluster 120
+0	123nt, >SRS016203.scaffolds... *
+>Cluster 121
+0	75nt, >SRS014235.scaffolds... at +/100.00%
+1	123nt, >SRS017521.scaffolds... *
+2	123nt, >SRS049164.scaffolds... at +/99.19%
+3	123nt, >SRS049959.scaffolds... at +/99.19%
+>Cluster 122
+0	112nt, >SRS014459.scaffolds... at +/100.00%
+1	123nt, >SRS019582.scaffolds... *
+2	123nt, >SRS054956.scaffolds... at +/100.00%
+>Cluster 123
+0	122nt, >Amet_QYMF_TR1... *
+>Cluster 124
+0	122nt, >Ospl_DSM20712_TR1... *
+1	121nt, >hv-5... at +/99.17%
+2	122nt, >SRS011239.scaffolds... at +/100.00%
+3	67nt, >SRS017247.scaffolds... at +/100.00%
+4	122nt, >SRS063985.scaffolds... at +/97.54%
+>Cluster 125
+0	122nt, >Hhyd_DSM1100_TR1... *
+>Cluster 126
+0	122nt, >hv-13... *
+1	122nt, >hv-15... at +/100.00%
+2	113nt, >SRS014235.scaffolds... at +/100.00%
+3	122nt, >SRS015133.scaffolds... at +/100.00%
+4	122nt, >SRS017821.scaffolds... at +/100.00%
+5	79nt, >SRS019397.scaffolds... at +/100.00%
+6	122nt, >SRS019968.scaffolds... at +/100.00%
+7	122nt, >SRS020233.scaffolds... at +/100.00%
+8	122nt, >SRS020328.scaffolds... at +/100.00%
+9	107nt, >SRS022524.scaffolds... at +/99.07%
+10	122nt, >SRS024331.scaffolds... at +/100.00%
+11	122nt, >SRS024435.scaffolds... at +/100.00%
+12	122nt, >SRS043701.scaffolds... at +/100.00%
+13	122nt, >SRS050422.scaffolds... at +/100.00%
+14	122nt, >SRS051031.scaffolds... at +/95.08%
+15	122nt, >SRS063985.scaffolds... at +/100.00%
+>Cluster 127
+0	85nt, >SRS015663.scaffolds... at +/100.00%
+1	122nt, >SRS017307.scaffolds... *
+>Cluster 128
+0	112nt, >SRS014235.scaffolds... at +/97.32%
+1	93nt, >SRS019582.scaffolds... at +/96.77%
+2	122nt, >SRS019601.scaffolds... *
+>Cluster 129
+0	107nt, >SRS017701.scaffolds... at +/99.07%
+1	122nt, >SRS022609.scaffolds... *
+2	122nt, >SRS024435.scaffolds... at +/99.18%
+>Cluster 130
+0	122nt, >SRS043701.scaffolds... *
+>Cluster 131
+0	121nt, >Rsph_ATCC17025_TR1... *
+>Cluster 132
+0	121nt, >Amar_MBIC11017_TR1... *
+>Cluster 133
+0	121nt, >SRS013951.scaffolds... *
+1	121nt, >SRS015264.scaffolds... at +/96.69%
+>Cluster 134
+0	121nt, >SRS015190.scaffolds... *
+>Cluster 135
+0	121nt, >SRS015663.scaffolds... *
+>Cluster 136
+0	121nt, >SRS023914.scaffolds... *
+>Cluster 137
+0	121nt, >SRS049164.scaffolds... *
+>Cluster 138
+0	119nt, >SRS045004.scaffolds... at +/99.16%
+1	121nt, >SRS049959.scaffolds... *
+>Cluster 139
+0	121nt, >SRS063040.scaffolds... *
+>Cluster 140
+0	120nt, >Halo_TD01_TR1... *
+>Cluster 141
+0	120nt, >SRS014313.scaffolds... *
+1	120nt, >SRS015190.scaffolds... at +/96.67%
+2	117nt, >SRS020328.scaffolds... at +/96.58%
+>Cluster 142
+0	110nt, >SRS011302.scaffolds... at +/100.00%
+1	120nt, >SRS015133.scaffolds... *
+2	110nt, >SRS022524.scaffolds... at +/99.09%
+3	95nt, >SRS063040.scaffolds... at +/98.95%
+>Cluster 143
+0	120nt, >SRS017821.scaffolds... *
+>Cluster 144
+0	120nt, >SRS049959.scaffolds... *
+>Cluster 145
+0	73nt, >SRS015782.scaffolds... at +/95.89%
+1	120nt, >SRS050422.scaffolds... *
+>Cluster 146
+0	120nt, >SRS063985.scaffolds... *
+>Cluster 147
+0	119nt, >Vcho_HE-09_TR1... *
+>Cluster 148
+0	119nt, >Tmar_5811_TR1... *
+>Cluster 149
+0	119nt, >Tmar_5811_TR3... *
+>Cluster 150
+0	119nt, >Rumi_SR1-5_TR1... *
+>Cluster 151
+0	119nt, >Casp_DSM15981_TR1... *
+1	119nt, >SRS014979.scaffolds... at +/100.00%
+2	119nt, >SRS018427.scaffolds... at +/100.00%
+3	119nt, >SRS019601.scaffolds... at +/100.00%
+4	119nt, >SRS051882.scaffolds... at +/98.32%
+>Cluster 152
+0	119nt, >SRS013687.scaffolds... *
+>Cluster 153
+0	119nt, >SRS015578.scaffolds... *
+>Cluster 154
+0	119nt, >SRS022609.scaffolds... *
+>Cluster 155
+0	117nt, >SRS014613.scaffolds... at +/99.15%
+1	119nt, >SRS024075.scaffolds... *
+2	119nt, >SRS050299.scaffolds... at +/100.00%
+3	117nt, >SRS064276.scaffolds... at +/99.15%
+>Cluster 156
+0	119nt, >SRS048164.scaffolds... *
+>Cluster 157
+0	119nt, >SRS052027.scaffolds... *
+>Cluster 158
+0	118nt, >Bact_9_1_42FAA_TR1... *
+1	118nt, >SRS011452.scaffolds... at +/100.00%
+2	118nt, >SRS011529.scaffolds... at +/100.00%
+3	116nt, >SRS013951.scaffolds... at +/100.00%
+4	118nt, >SRS014235.scaffolds... at +/100.00%
+5	118nt, >SRS014923.scaffolds... at +/100.00%
+6	118nt, >SRS015065.scaffolds... at +/100.00%
+7	118nt, >SRS015217.scaffolds... at +/100.00%
+8	118nt, >SRS016095.scaffolds... at +/100.00%
+9	118nt, >SRS016541.scaffolds... at +/100.00%
+10	118nt, >SRS018575.scaffolds... at +/100.00%
+11	118nt, >SRS019161.scaffolds... at +/100.00%
+12	118nt, >SRS019582.scaffolds... at +/100.00%
+13	118nt, >SRS019787.scaffolds... at +/100.00%
+14	118nt, >SRS019910.scaffolds... at +/100.00%
+15	104nt, >SRS022524.scaffolds... at +/100.00%
+16	118nt, >SRS049164.scaffolds... at +/100.00%
+17	118nt, >SRS050925.scaffolds... at +/100.00%
+18	118nt, >SRS053398.scaffolds... at +/100.00%
+19	118nt, >SRS056519.scaffolds... at +/100.00%
+20	118nt, >SRS058723.scaffolds... at +/100.00%
+21	118nt, >SRS064557.scaffolds... at +/100.00%
+>Cluster 159
+0	118nt, >Dpos_2ac9_TR1... *
+>Cluster 160
+0	118nt, >SRS015663.scaffolds... *
+>Cluster 161
+0	118nt, >SRS019030.scaffolds... *
+1	118nt, >SRS048164.scaffolds... at +/100.00%
+>Cluster 162
+0	118nt, >SRS050299.scaffolds... *
+>Cluster 163
+0	117nt, >SRS014287.scaffolds... at +/98.29%
+1	109nt, >SRS014613.scaffolds... at +/100.00%
+2	117nt, >SRS043411.scaffolds... at +/99.15%
+3	118nt, >SRS064276.scaffolds... *
+>Cluster 164
+0	117nt, >Parc_273-4_TR1... *
+>Cluster 165
+0	117nt, >Lcho_SP-6_TR1... *
+>Cluster 166
+0	117nt, >Bcop_DSM17136_TR1... *
+1	117nt, >SRS013687.scaffolds... at +/98.29%
+2	117nt, >SRS013800.scaffolds... at +/97.44%
+3	117nt, >SRS015782.scaffolds... at +/95.73%
+4	117nt, >SRS017307.scaffolds... at +/97.44%
+5	117nt, >SRS018656.scaffolds... at +/100.00%
+6	117nt, >SRS023914.scaffolds... at +/98.29%
+7	117nt, >SRS024435.scaffolds... at +/97.44%
+8	117nt, >SRS043001.scaffolds... at +/98.29%
+9	117nt, >SRS051882.scaffolds... at +/98.29%
+>Cluster 167
+0	117nt, >SRS013687.scaffolds... *
+1	117nt, >SRS016541.scaffolds... at +/100.00%
+2	109nt, >SRS023914.scaffolds... at +/100.00%
+>Cluster 168
+0	117nt, >SRS013800.scaffolds... *
+1	117nt, >SRS024265.scaffolds... at +/100.00%
+>Cluster 169
+0	117nt, >SRS014459.scaffolds... *
+>Cluster 170
+0	117nt, >SRS014459.scaffolds... *
+>Cluster 171
+0	117nt, >SRS015782.scaffolds... *
+1	117nt, >SRS047044.scaffolds... at +/100.00%
+>Cluster 172
+0	117nt, >SRS017433.scaffolds... *
+>Cluster 173
+0	117nt, >SRS022137.scaffolds... *
+1	80nt, >SRS024435.scaffolds... at +/100.00%
+2	115nt, >SRS050422.scaffolds... at +/100.00%
+3	117nt, >SRS055982.scaffolds... at +/100.00%
+4	116nt, >SRS077730.scaffolds... at +/100.00%
+>Cluster 174
+0	117nt, >SRS048164.scaffolds... *
+>Cluster 175
+0	117nt, >SRS050422.scaffolds... *
+>Cluster 176
+0	117nt, >SRS077730.scaffolds... *
+>Cluster 177
+0	116nt, >Vphage_VHML_TR1... *
+>Cluster 178
+0	116nt, >Robe_ATCC29174_TR1... *
+>Cluster 179
+0	116nt, >Rgna_ATCC29149_TR1... *
+>Cluster 180
+0	116nt, >Csci_ATCC35704_TR2... *
+1	116nt, >hv-16... at +/98.28%
+2	116nt, >SRS014979.scaffolds... at +/98.28%
+3	116nt, >SRS015854.scaffolds... at +/98.28%
+4	116nt, >SRS022137.scaffolds... at +/98.28%
+5	116nt, >SRS050925.scaffolds... at +/98.28%
+6	92nt, >SRS052027.scaffolds... at +/97.83%
+>Cluster 181
+0	116nt, >Tdre_AZ1_TR1... *
+>Cluster 182
+0	116nt, >Aput_DSM17216_TR1... *
+1	116nt, >SRS011134.scaffolds... at +/98.28%
+2	116nt, >SRS011239.scaffolds... at +/98.28%
+3	116nt, >SRS011586.scaffolds... at +/98.28%
+4	116nt, >SRS016018.scaffolds... at +/100.00%
+5	116nt, >SRS017103.scaffolds... at +/98.28%
+6	116nt, >SRS017821.scaffolds... at +/100.00%
+7	115nt, >SRS019161.scaffolds... at +/100.00%
+8	116nt, >SRS022137.scaffolds... at +/100.00%
+9	116nt, >SRS024331.scaffolds... at +/98.28%
+10	116nt, >SRS024388.scaffolds... at +/100.00%
+11	116nt, >SRS047044.scaffolds... at +/100.00%
+12	116nt, >SRS049164.scaffolds... at +/100.00%
+13	116nt, >SRS049959.scaffolds... at +/100.00%
+14	116nt, >SRS050925.scaffolds... at +/100.00%
+15	116nt, >SRS052027.scaffolds... at +/100.00%
+16	116nt, >SRS055982.scaffolds... at +/100.00%
+17	116nt, >SRS064557.scaffolds... at +/98.28%
+>Cluster 183
+0	116nt, >hv-17... *
+>Cluster 184
+0	116nt, >SRS011302.scaffolds... *
+1	116nt, >SRS018817.scaffolds... at +/96.55%
+>Cluster 185
+0	116nt, >SRS012273.scaffolds... *
+1	116nt, >SRS022071.scaffolds... at +/100.00%
+>Cluster 186
+0	116nt, >SRS015217.scaffolds... *
+>Cluster 187
+0	116nt, >SRS015663.scaffolds... *
+>Cluster 188
+0	116nt, >SRS022609.scaffolds... *
+>Cluster 189
+0	116nt, >SRS047044.scaffolds... *
+>Cluster 190
+0	112nt, >SRS011586.scaffolds... at +/100.00%
+1	114nt, >SRS019582.scaffolds... at +/98.25%
+2	116nt, >SRS051031.scaffolds... *
+3	97nt, >SRS077730.scaffolds... at +/96.91%
+>Cluster 191
+0	116nt, >SRS052027.scaffolds... *
+>Cluster 192
+0	116nt, >SRS054590.scaffolds... *
+>Cluster 193
+0	116nt, >SRS063985.scaffolds... *
+1	73nt, >SRS064276.scaffolds... at +/100.00%
+>Cluster 194
+0	116nt, >SRS078176.scaffolds... *
+>Cluster 195
+0	115nt, >Bste_ATCC43183_TR1... *
+1	115nt, >hv-8... at +/98.26%
+2	115nt, >SRS011239.scaffolds... at +/98.26%
+3	115nt, >SRS011302.scaffolds... at +/98.26%
+4	115nt, >SRS016018.scaffolds... at +/98.26%
+5	115nt, >SRS016203.scaffolds... at +/98.26%
+6	115nt, >SRS016335.scaffolds... at +/98.26%
+7	115nt, >SRS016541.scaffolds... at +/98.26%
+8	85nt, >SRS017247.scaffolds... at +/97.65%
+9	115nt, >SRS017307.scaffolds... at +/98.26%
+10	91nt, >SRS018313.scaffolds... at +/98.90%
+11	87nt, >SRS019161.scaffolds... at +/96.55%
+12	115nt, >SRS019267.scaffolds... at +/98.26%
+13	115nt, >SRS024075.scaffolds... at +/97.39%
+14	115nt, >SRS024132.scaffolds... at +/98.26%
+15	115nt, >SRS024265.scaffolds... at +/98.26%
+16	115nt, >SRS042628.scaffolds... at +/98.26%
+17	115nt, >SRS047014.scaffolds... at +/98.26%
+18	115nt, >SRS049164.scaffolds... at +/98.26%
+19	115nt, >SRS050752.scaffolds... at +/98.26%
+20	115nt, >SRS063040.scaffolds... at +/98.26%
+21	115nt, >SRS064557.scaffolds... at +/98.26%
+>Cluster 196
+0	115nt, >Taqu_Y51MC23_TR1... *
+>Cluster 197
+0	115nt, >Fpra_A2-165-TR1... *
+1	115nt, >hv-7... at +/96.52%
+2	115nt, >SRS013951.scaffolds... at +/100.00%
+3	115nt, >SRS014923.scaffolds... at +/100.00%
+4	115nt, >SRS018427.scaffolds... at +/99.13%
+>Cluster 198
+0	115nt, >Csym_WAL-14163_TR2... *
+1	115nt, >SRS012273.scaffolds... at +/100.00%
+2	115nt, >SRS013951.scaffolds... at +/100.00%
+3	115nt, >SRS015578.scaffolds... at +/100.00%
+4	114nt, >SRS016203.scaffolds... at +/100.00%
+5	115nt, >SRS017307.scaffolds... at +/100.00%
+6	101nt, >SRS022071.scaffolds... at +/100.00%
+>Cluster 199
+0	115nt, >Mels_DSM20460_TR1... *
+>Cluster 200
+0	115nt, >Rumi_5_1_39BFAA_TR1... *
+>Cluster 201
+0	115nt, >SRS012273.scaffolds... *
+1	115nt, >SRS013215.scaffolds... at +/100.00%
+2	115nt, >SRS013687.scaffolds... at +/100.00%
+3	115nt, >SRS015960.scaffolds... at +/100.00%
+4	115nt, >SRS016056.scaffolds... at +/100.00%
+5	115nt, >SRS017191.scaffolds... at +/100.00%
+6	115nt, >SRS018817.scaffolds... at +/100.00%
+7	115nt, >SRS019161.scaffolds... at +/100.00%
+8	115nt, >SRS020869.scaffolds... at +/100.00%
+9	115nt, >SRS023583.scaffolds... at +/100.00%
+10	115nt, >SRS023914.scaffolds... at +/100.00%
+11	115nt, >SRS024549.scaffolds... at +/100.00%
+12	115nt, >SRS043701.scaffolds... at +/100.00%
+13	115nt, >SRS045645.scaffolds... at +/100.00%
+14	115nt, >SRS050925.scaffolds... at +/100.00%
+15	115nt, >SRS056259.scaffolds... at +/100.00%
+>Cluster 202
+0	115nt, >SRS013687.scaffolds... *
+>Cluster 203
+0	114nt, >SRS014459.scaffolds... at +/100.00%
+1	115nt, >SRS014613.scaffolds... *
+2	115nt, >SRS017701.scaffolds... at +/100.00%
+3	115nt, >SRS052027.scaffolds... at +/100.00%
+4	115nt, >SRS064276.scaffolds... at +/100.00%
+>Cluster 204
+0	115nt, >SRS015663.scaffolds... *
+>Cluster 205
+0	81nt, >SRS013158.scaffolds... at +/100.00%
+1	114nt, >SRS013951.scaffolds... at +/100.00%
+2	115nt, >SRS015782.scaffolds... *
+3	114nt, >SRS019161.scaffolds... at +/100.00%
+4	81nt, >SRS023971.scaffolds... at +/100.00%
+5	115nt, >SRS050422.scaffolds... at +/100.00%
+>Cluster 206
+0	115nt, >SRS016267.scaffolds... *
+1	115nt, >SRS019787.scaffolds... at +/100.00%
+>Cluster 207
+0	114nt, >SRS015782.scaffolds... at +/98.25%
+1	115nt, >SRS022137.scaffolds... *
+2	115nt, >SRS055982.scaffolds... at +/100.00%
+>Cluster 208
+0	115nt, >SRS023526.scaffolds... *
+>Cluster 209
+0	115nt, >SRS049959.scaffolds... *
+>Cluster 210
+0	115nt, >SRS050299.scaffolds... *
+>Cluster 211
+0	115nt, >SRS050752.scaffolds... *
+>Cluster 212
+0	115nt, >SRS051031.scaffolds... *
+>Cluster 213
+0	115nt, >SRS065504.scaffolds... *
+>Cluster 214
+0	114nt, >Sten_SKA14_TR2... *
+>Cluster 215
+0	114nt, >Pber_DSM17361_TR1... *
+>Cluster 216
+0	114nt, >SRS011529.scaffolds... *
+>Cluster 217
+0	114nt, >SRS014235.scaffolds... *
+>Cluster 218
+0	114nt, >SRS014459.scaffolds... *
+1	114nt, >SRS018427.scaffolds... at +/95.61%
+2	114nt, >SRS054956.scaffolds... at +/96.49%
+3	114nt, >SRS058770.scaffolds... at +/100.00%
+4	114nt, >SRS063985.scaffolds... at +/96.49%
+5	114nt, >SRS077730.scaffolds... at +/96.49%
+>Cluster 219
+0	114nt, >SRS015190.scaffolds... *
+>Cluster 220
+0	114nt, >SRS019582.scaffolds... *
+>Cluster 221
+0	114nt, >SRS020869.scaffolds... *
+>Cluster 222
+0	113nt, >Prev_C561_TR1... at +/99.12%
+1	113nt, >SRS015893.scaffolds... at +/99.12%
+2	113nt, >SRS042131.scaffolds... at +/99.12%
+3	113nt, >SRS042643.scaffolds... at +/99.12%
+4	78nt, >SRS045127.scaffolds... at +/98.72%
+5	114nt, >SRS056622.scaffolds... *
+>Cluster 223
+0	87nt, >SRS020328.scaffolds... at +/96.55%
+1	74nt, >SRS022137.scaffolds... at +/100.00%
+2	114nt, >SRS058723.scaffolds... *
+>Cluster 224
+0	113nt, >Caer_ATCC25986_TR1... *
+>Cluster 225
+0	113nt, >Asha_WAL8301_TR1... *
+1	113nt, >SRS015663.scaffolds... at +/100.00%
+2	113nt, >SRS015960.scaffolds... at +/100.00%
+3	113nt, >SRS016018.scaffolds... at +/100.00%
+4	113nt, >SRS017521.scaffolds... at +/100.00%
+5	113nt, >SRS019161.scaffolds... at +/98.23%
+6	113nt, >SRS045713.scaffolds... at +/100.00%
+7	113nt, >SRS048870.scaffolds... at +/100.00%
+8	76nt, >SRS051031.scaffolds... at +/100.00%
+9	113nt, >SRS062427.scaffolds... at +/100.00%
+>Cluster 226
+0	113nt, >hv-11... *
+1	113nt, >SRS014459.scaffolds... at +/100.00%
+2	102nt, >SRS015065.scaffolds... at +/100.00%
+3	113nt, >SRS015264.scaffolds... at +/99.12%
+4	112nt, >SRS016056.scaffolds... at +/100.00%
+5	113nt, >SRS050752.scaffolds... at +/100.00%
+>Cluster 227
+0	113nt, >SRS011134.scaffolds... *
+>Cluster 228
+0	101nt, >SRS011134.scaffolds... at +/100.00%
+1	113nt, >SRS013687.scaffolds... *
+2	113nt, >SRS013800.scaffolds... at +/100.00%
+3	113nt, >SRS013951.scaffolds... at +/100.00%
+4	113nt, >SRS014923.scaffolds... at +/100.00%
+5	113nt, >SRS014979.scaffolds... at +/100.00%
+6	113nt, >SRS015264.scaffolds... at +/100.00%
+7	113nt, >SRS015960.scaffolds... at +/100.00%
+8	113nt, >SRS017701.scaffolds... at +/100.00%
+9	113nt, >SRS017821.scaffolds... at +/100.00%
+10	113nt, >SRS018427.scaffolds... at +/100.00%
+11	113nt, >SRS019161.scaffolds... at +/100.00%
+12	113nt, >SRS022609.scaffolds... at +/100.00%
+13	113nt, >SRS023914.scaffolds... at +/100.00%
+14	113nt, >SRS024435.scaffolds... at +/100.00%
+15	113nt, >SRS042284.scaffolds... at +/100.00%
+16	113nt, >SRS050299.scaffolds... at +/100.00%
+17	113nt, >SRS052697.scaffolds... at +/100.00%
+18	113nt, >SRS054590.scaffolds... at +/100.00%
+19	113nt, >SRS056259.scaffolds... at +/100.00%
+>Cluster 229
+0	113nt, >SRS024132.scaffolds... *
+1	110nt, >SRS047044.scaffolds... at +/98.18%
+2	113nt, >SRS053398.scaffolds... at +/100.00%
+>Cluster 230
+0	113nt, >SRS048164.scaffolds... *
+1	80nt, >SRS050752.scaffolds... at +/100.00%
+>Cluster 231
+0	113nt, >SRS048164.scaffolds... *
+>Cluster 232
+0	112nt, >Bact_D2_TR1... *
+1	112nt, >hv-26... at +/100.00%
+2	112nt, >SRS011239.scaffolds... at +/99.11%
+3	112nt, >SRS012273.scaffolds... at +/99.11%
+4	112nt, >SRS012902.scaffolds... at +/100.00%
+5	78nt, >SRS013215.scaffolds... at +/98.72%
+6	112nt, >SRS014459.scaffolds... at +/100.00%
+7	112nt, >SRS015190.scaffolds... at +/99.11%
+8	112nt, >SRS015217.scaffolds... at +/99.11%
+9	77nt, >SRS015369.scaffolds... at +/98.70%
+10	112nt, >SRS016267.scaffolds... at +/99.11%
+11	112nt, >SRS016989.scaffolds... at +/99.11%
+12	112nt, >SRS017433.scaffolds... at +/99.11%
+13	112nt, >SRS017521.scaffolds... at +/99.11%
+14	112nt, >SRS019161.scaffolds... at +/99.11%
+15	112nt, >SRS019910.scaffolds... at +/99.11%
+16	112nt, >SRS022071.scaffolds... at +/99.11%
+17	112nt, >SRS022524.scaffolds... at +/99.11%
+18	112nt, >SRS022609.scaffolds... at +/99.11%
+19	112nt, >SRS023583.scaffolds... at +/99.11%
+20	112nt, >SRS023829.scaffolds... at +/100.00%
+21	112nt, >SRS043411.scaffolds... at +/99.11%
+22	111nt, >SRS050752.scaffolds... at +/99.10%
+23	112nt, >SRS062427.scaffolds... at +/100.00%
+>Cluster 233
+0	112nt, >Clos_7_3_54FAA_TR2... *
+1	112nt, >SRS049995.scaffolds... at +/100.00%
+>Cluster 234
+0	112nt, >SRS015264.scaffolds... *
+1	112nt, >SRS015854.scaffolds... at +/100.00%
+2	112nt, >SRS017307.scaffolds... at +/100.00%
+3	72nt, >SRS018656.scaffolds... at +/100.00%
+4	112nt, >SRS024435.scaffolds... at +/100.00%
+5	112nt, >SRS050925.scaffolds... at +/100.00%
+>Cluster 235
+0	112nt, >SRS015854.scaffolds... *
+1	111nt, >SRS016335.scaffolds... at +/100.00%
+2	110nt, >SRS024009.scaffolds... at +/100.00%
+3	111nt, >SRS047044.scaffolds... at +/100.00%
+>Cluster 236
+0	112nt, >SRS015854.scaffolds... *
+1	79nt, >SRS052697.scaffolds... at +/100.00%
+>Cluster 237
+0	112nt, >SRS015893.scaffolds... *
+1	112nt, >SRS016569.scaffolds... at +/100.00%
+2	112nt, >SRS016740.scaffolds... at +/100.00%
+3	112nt, >SRS018969.scaffolds... at +/100.00%
+4	112nt, >SRS044373.scaffolds... at +/100.00%
+>Cluster 238
+0	112nt, >SRS016018.scaffolds... *
+>Cluster 239
+0	112nt, >SRS016086.scaffolds... *
+>Cluster 240
+0	112nt, >SRS022137.scaffolds... *
+1	112nt, >SRS055982.scaffolds... at +/100.00%
+>Cluster 241
+0	73nt, >SRS015217.scaffolds... at +/100.00%
+1	112nt, >SRS023526.scaffolds... *
+>Cluster 242
+0	112nt, >SRS054956.scaffolds... *
+>Cluster 243
+0	111nt, >Bfin_DSM17565_TR1... *
+1	110nt, >hv-6... at +/100.00%
+2	110nt, >hv-14... at +/100.00%
+3	71nt, >SRS015217.scaffolds... at +/100.00%
+4	110nt, >SRS015578.scaffolds... at +/100.00%
+5	110nt, >SRS024549.scaffolds... at +/100.00%
+6	110nt, >SRS043411.scaffolds... at +/100.00%
+>Cluster 244
+0	111nt, >SRS013951.scaffolds... *
+1	111nt, >SRS015217.scaffolds... at +/97.30%
+>Cluster 245
+0	109nt, >Clos_M62_1_TR1... at +/100.00%
+1	111nt, >SRS013951.scaffolds... *
+2	109nt, >SRS014459.scaffolds... at +/100.00%
+3	109nt, >SRS015065.scaffolds... at +/100.00%
+4	109nt, >SRS015264.scaffolds... at +/100.00%
+5	109nt, >SRS017821.scaffolds... at +/100.00%
+6	111nt, >SRS019161.scaffolds... at +/100.00%
+7	109nt, >SRS042284.scaffolds... at +/100.00%
+8	109nt, >SRS050925.scaffolds... at +/100.00%
+9	109nt, >SRS052027.scaffolds... at +/100.00%
+10	109nt, >SRS056259.scaffolds... at +/99.08%
+>Cluster 246
+0	111nt, >SRS016095.scaffolds... *
+>Cluster 247
+0	111nt, >SRS017191.scaffolds... *
+>Cluster 248
+0	109nt, >Clep_DSM753_TR1... at +/95.41%
+1	110nt, >SRS017821.scaffolds... at +/98.18%
+2	111nt, >SRS019582.scaffolds... *
+3	110nt, >SRS050752.scaffolds... at +/98.18%
+4	109nt, >SRS051031.scaffolds... at +/98.17%
+>Cluster 249
+0	111nt, >SRS021484.scaffolds... *
+>Cluster 250
+0	111nt, >SRS023526.scaffolds... *
+1	111nt, >SRS063985.scaffolds... at +/100.00%
+>Cluster 251
+0	111nt, >SRS050422.scaffolds... *
+>Cluster 252
+0	111nt, >SRS054956.scaffolds... *
+>Cluster 253
+0	110nt, >Bact_1_1_14_TR1... *
+1	82nt, >SRS013687.scaffolds... at +/95.12%
+2	82nt, >SRS014459.scaffolds... at +/95.12%
+3	103nt, >SRS015065.scaffolds... at +/95.15%
+4	110nt, >SRS015190.scaffolds... at +/95.45%
+5	110nt, >SRS019030.scaffolds... at +/95.45%
+6	110nt, >SRS019968.scaffolds... at +/100.00%
+7	110nt, >SRS043411.scaffolds... at +/95.45%
+8	72nt, >SRS043701.scaffolds... at +/97.22%
+9	110nt, >SRS047044.scaffolds... at +/95.45%
+10	110nt, >SRS050299.scaffolds... at +/95.45%
+11	110nt, >SRS050925.scaffolds... at +/95.45%
+12	110nt, >SRS052027.scaffolds... at +/95.45%
+>Cluster 254
+0	110nt, >SRS012273.scaffolds... *
+1	110nt, >SRS019161.scaffolds... at +/100.00%
+>Cluster 255
+0	110nt, >SRS013687.scaffolds... *
+1	104nt, >SRS016541.scaffolds... at +/100.00%
+2	110nt, >SRS023914.scaffolds... at +/100.00%
+>Cluster 256
+0	110nt, >SRS013687.scaffolds... *
+1	82nt, >SRS016203.scaffolds... at +/96.34%
+2	110nt, >SRS023914.scaffolds... at +/100.00%
+3	95nt, >SRS047014.scaffolds... at +/98.95%
+>Cluster 257
+0	110nt, >SRS017191.scaffolds... *
+>Cluster 258
+0	110nt, >SRS019030.scaffolds... *
+>Cluster 259
+0	110nt, >SRS022609.scaffolds... *
+>Cluster 260
+0	110nt, >SRS023526.scaffolds... *
+>Cluster 261
+0	110nt, >SRS052027.scaffolds... *
+>Cluster 262
+0	110nt, >SRS052697.scaffolds... *
+>Cluster 263
+0	110nt, >SRS063985.scaffolds... *
+>Cluster 264
+0	109nt, >Shew_W3-18-1_TR1... *
+>Cluster 265
+0	109nt, >SRS014683.scaffolds... *
+>Cluster 266
+0	109nt, >SRS016095.scaffolds... *
+>Cluster 267
+0	109nt, >SRS022609.scaffolds... *
+>Cluster 268
+0	109nt, >SRS052697.scaffolds... *
+>Cluster 269
+0	108nt, >Blon_DJ010A_TR1... *
+1	108nt, >Bado_L2-32_TR1... at +/95.37%
+>Cluster 270
+0	108nt, >Lbac_3_1_46FAA_TR1... *
+1	108nt, >SRS014459.scaffolds... at +/100.00%
+>Cluster 271
+0	108nt, >Cfun_Ter331_TR1... *
+>Cluster 272
+0	108nt, >Lbac_5_1_63FAA_TR1... *
+>Cluster 273
+0	108nt, >SRS011134.scaffolds... *
+1	108nt, >SRS017821.scaffolds... at +/99.07%
+2	108nt, >SRS019582.scaffolds... at +/100.00%
+3	108nt, >SRS022609.scaffolds... at +/100.00%
+>Cluster 274
+0	108nt, >SRS014287.scaffolds... *
+>Cluster 275
+0	108nt, >SRS014923.scaffolds... *
+1	108nt, >SRS015190.scaffolds... at +/100.00%
+2	108nt, >SRS043411.scaffolds... at +/100.00%
+>Cluster 276
+0	102nt, >SRS014613.scaffolds... at +/100.00%
+1	102nt, >SRS016018.scaffolds... at +/100.00%
+2	108nt, >SRS017191.scaffolds... *
+3	102nt, >SRS022137.scaffolds... at +/98.04%
+4	100nt, >SRS022609.scaffolds... at +/97.00%
+5	108nt, >SRS043701.scaffolds... at +/100.00%
+6	108nt, >SRS062427.scaffolds... at +/97.22%
+>Cluster 277
+0	101nt, >hv-2... at +/99.01%
+1	108nt, >SRS017521.scaffolds... *
+2	83nt, >SRS022137.scaffolds... at +/100.00%
+>Cluster 278
+0	108nt, >SRS018351.scaffolds... *
+1	108nt, >SRS024132.scaffolds... at +/99.07%
+>Cluster 279
+0	108nt, >SRS023604.scaffolds... *
+>Cluster 280
+0	108nt, >SRS053335.scaffolds... *
+>Cluster 281
+0	107nt, >Desu_6_1_46AFAA_TR1... *
+>Cluster 282
+0	107nt, >Pseu_NH8B_TR1... *
+>Cluster 283
+0	107nt, >SRS011243.scaffolds... *
+1	107nt, >SRS015941.scaffolds... at +/100.00%
+2	107nt, >SRS016002.scaffolds... at +/100.00%
+3	107nt, >SRS022143.scaffolds... at +/100.00%
+4	107nt, >SRS023835.scaffolds... at +/100.00%
+5	61nt, >SRS064423.scaffolds... at +/100.00%
+6	107nt, >SRS064774.scaffolds... at +/100.00%
+>Cluster 284
+0	107nt, >SRS013476.scaffolds... *
+1	107nt, >SRS024132.scaffolds... at +/100.00%
+>Cluster 285
+0	107nt, >SRS017821.scaffolds... *
+1	74nt, >SRS054956.scaffolds... at +/100.00%
+>Cluster 286
+0	107nt, >SRS042628.scaffolds... *
+>Cluster 287
+0	107nt, >SRS050752.scaffolds... *
+>Cluster 288
+0	106nt, >Slit_ES-1_TR1... *
+>Cluster 289
+0	106nt, >SRS011239.scaffolds... *
+>Cluster 290
+0	106nt, >SRS014235.scaffolds... *
+>Cluster 291
+0	106nt, >SRS047014.scaffolds... *
+>Cluster 292
+0	106nt, >SRS054956.scaffolds... *
+>Cluster 293
+0	105nt, >hv-1... *
+1	105nt, >SRS013951.scaffolds... at +/96.19%
+2	105nt, >SRS014459.scaffolds... at +/97.14%
+3	105nt, >SRS018817.scaffolds... at +/97.14%
+4	105nt, >SRS019161.scaffolds... at +/96.19%
+5	105nt, >SRS024435.scaffolds... at +/100.00%
+6	105nt, >SRS048164.scaffolds... at +/97.14%
+7	105nt, >SRS048870.scaffolds... at +/100.00%
+8	105nt, >SRS063985.scaffolds... at +/97.14%
+>Cluster 294
+0	105nt, >SRS016095.scaffolds... *
+1	105nt, >SRS019968.scaffolds... at +/98.10%
+2	105nt, >SRS065504.scaffolds... at +/99.05%
+>Cluster 295
+0	104nt, >Rpic_12J_TR3... *
+>Cluster 296
+0	104nt, >Pflu_WH6_TR1... *
+>Cluster 297
+0	104nt, >SRS011239.scaffolds... *
+1	104nt, >SRS014923.scaffolds... at +/95.19%
+2	104nt, >SRS022524.scaffolds... at +/100.00%
+3	104nt, >SRS050925.scaffolds... at +/95.19%
+>Cluster 298
+0	104nt, >SRS013542.scaffolds... *
+>Cluster 299
+0	104nt, >SRS017307.scaffolds... *
+>Cluster 300
+0	103nt, >SRS015065.scaffolds... *
+>Cluster 301
+0	103nt, >SRS021484.scaffolds... *
+>Cluster 302
+0	103nt, >SRS023914.scaffolds... *
+>Cluster 303
+0	103nt, >SRS051031.scaffolds... *
+>Cluster 304
+0	102nt, >Blon_157F_TR1... *
+>Cluster 305
+0	102nt, >SRS013951.scaffolds... *
+>Cluster 306
+0	102nt, >SRS017521.scaffolds... *
+>Cluster 307
+0	102nt, >SRS043001.scaffolds... *
+>Cluster 308
+0	101nt, >SRS012273.scaffolds... *
+>Cluster 309
+0	101nt, >SRS016018.scaffolds... *
+1	101nt, >SRS019787.scaffolds... at +/98.02%
+2	101nt, >SRS023914.scaffolds... at +/98.02%
+>Cluster 310
+0	100nt, >Aden_BC_TR1... *
+>Cluster 311
+0	100nt, >SRS011405.scaffolds... *
+1	100nt, >SRS014459.scaffolds... at +/99.00%
+2	100nt, >SRS015133.scaffolds... at +/99.00%
+3	100nt, >SRS063040.scaffolds... at +/100.00%
+>Cluster 312
+0	100nt, >SRS014683.scaffolds... *
+1	100nt, >SRS019030.scaffolds... at +/100.00%
+>Cluster 313
+0	100nt, >SRS015133.scaffolds... *
+1	100nt, >SRS024435.scaffolds... at +/100.00%
+2	100nt, >SRS063985.scaffolds... at +/100.00%
+>Cluster 314
+0	100nt, >SRS050925.scaffolds... *
+>Cluster 315
+0	99nt, >SRS011239.scaffolds... *
+1	99nt, >SRS011586.scaffolds... at +/100.00%
+2	99nt, >SRS012273.scaffolds... at +/100.00%
+3	99nt, >SRS013800.scaffolds... at +/100.00%
+4	99nt, >SRS014235.scaffolds... at +/100.00%
+5	99nt, >SRS014287.scaffolds... at +/100.00%
+6	99nt, >SRS014923.scaffolds... at +/100.00%
+7	99nt, >SRS014979.scaffolds... at +/100.00%
+8	99nt, >SRS015190.scaffolds... at +/100.00%
+9	93nt, >SRS016018.scaffolds... at +/100.00%
+10	99nt, >SRS018351.scaffolds... at +/100.00%
+11	99nt, >SRS018427.scaffolds... at +/100.00%
+12	99nt, >SRS018656.scaffolds... at +/100.00%
+13	69nt, >SRS022137.scaffolds... at +/100.00%
+14	99nt, >SRS024435.scaffolds... at +/100.00%
+15	99nt, >SRS043411.scaffolds... at +/100.00%
+16	99nt, >SRS048164.scaffolds... at +/100.00%
+17	99nt, >SRS049995.scaffolds... at +/100.00%
+18	98nt, >SRS051882.scaffolds... at +/100.00%
+19	99nt, >SRS055982.scaffolds... at +/100.00%
+20	99nt, >SRS058770.scaffolds... at +/100.00%
+21	99nt, >SRS078176.scaffolds... at +/100.00%
+>Cluster 316
+0	99nt, >SRS013951.scaffolds... *
+>Cluster 317
+0	95nt, >Bact_1_1_6_TR2... at +/98.95%
+1	99nt, >SRS049995.scaffolds... *
+>Cluster 318
+0	99nt, >SRS065504.scaffolds... *
+>Cluster 319
+0	98nt, >SRS015578.scaffolds... *
+>Cluster 320
+0	98nt, >SRS015578.scaffolds... *
+>Cluster 321
+0	97nt, >Btha_MSMB43_TR1... *
+1	91nt, >Bglu_BGR1_TR1... at +/95.60%
+>Cluster 322
+0	97nt, >SRS013521.scaffolds... *
+>Cluster 323
+0	96nt, >SRS016056.scaffolds... *
+1	96nt, >SRS019582.scaffolds... at +/100.00%
+>Cluster 324
+0	96nt, >SRS056259.scaffolds... *
+>Cluster 325
+0	95nt, >Rbac_D16_TR1... *
+1	95nt, >hv-3... at +/95.79%
+2	95nt, >SRS014683.scaffolds... at +/100.00%
+3	95nt, >SRS015065.scaffolds... at +/98.95%
+4	95nt, >SRS015663.scaffolds... at +/100.00%
+5	95nt, >SRS016018.scaffolds... at +/100.00%
+6	95nt, >SRS019030.scaffolds... at +/100.00%
+7	95nt, >SRS022137.scaffolds... at +/100.00%
+8	95nt, >SRS043411.scaffolds... at +/100.00%
+9	95nt, >SRS053398.scaffolds... at +/100.00%
+10	86nt, >SRS055982.scaffolds... at +/100.00%
+>Cluster 326
+0	95nt, >SRS011302.scaffolds... *
+>Cluster 327
+0	95nt, >SRS015663.scaffolds... *
+1	95nt, >SRS016954.scaffolds... at +/98.95%
+2	95nt, >SRS051031.scaffolds... at +/100.00%
+>Cluster 328
+0	91nt, >SRS014979.scaffolds... at +/98.90%
+1	95nt, >SRS015663.scaffolds... *
+2	95nt, >SRS019910.scaffolds... at +/98.95%
+3	95nt, >SRS024331.scaffolds... at +/98.95%
+>Cluster 329
+0	94nt, >Fpra_A2-165-TR2... *
+1	94nt, >hv-22... at +/100.00%
+2	94nt, >SRS012273.scaffolds... at +/98.94%
+3	93nt, >SRS014683.scaffolds... at +/98.92%
+4	93nt, >SRS015663.scaffolds... at +/98.92%
+5	93nt, >SRS019030.scaffolds... at +/98.92%
+6	93nt, >SRS020869.scaffolds... at +/97.85%
+7	93nt, >SRS050925.scaffolds... at +/98.92%
+8	93nt, >SRS056259.scaffolds... at +/98.92%
+9	93nt, >SRS056519.scaffolds... at +/98.92%
+10	94nt, >SRS063985.scaffolds... at +/98.94%
+>Cluster 330
+0	94nt, >Rbac_D16_TR2... *
+1	94nt, >SRS017521.scaffolds... at +/100.00%
+>Cluster 331
+0	94nt, >hv-12... *
+1	94nt, >SRS013951.scaffolds... at +/100.00%
+>Cluster 332
+0	94nt, >SRS011306.scaffolds... *
+>Cluster 333
+0	94nt, >SRS014459.scaffolds... *
+>Cluster 334
+0	94nt, >SRS019161.scaffolds... *
+>Cluster 335
+0	94nt, >SRS049164.scaffolds... *
+>Cluster 336
+0	94nt, >SRS050925.scaffolds... *
+>Cluster 337
+0	93nt, >Rsol_CMR15_TR1... *
+>Cluster 338
+0	93nt, >SRS014235.scaffolds... *
+>Cluster 339
+0	93nt, >SRS015663.scaffolds... *
+1	93nt, >SRS018427.scaffolds... at +/98.92%
+2	93nt, >SRS045713.scaffolds... at +/98.92%
+3	93nt, >SRS051031.scaffolds... at +/100.00%
+>Cluster 340
+0	92nt, >Paen_t786_D14_TR1... *
+>Cluster 341
+0	91nt, >Mmag_AMB-2_TR1... *
+>Cluster 342
+0	91nt, >Bova_ATCC8483_TR1... *
+1	91nt, >SRS015190.scaffolds... at +/100.00%
+2	91nt, >SRS023176.scaffolds... at +/100.00%
+3	91nt, >SRS043411.scaffolds... at +/100.00%
+4	91nt, >SRS048870.scaffolds... at +/100.00%
+5	91nt, >SRS050925.scaffolds... at +/100.00%
+6	91nt, >SRS053214.scaffolds... at +/100.00%
+7	91nt, >SRS058770.scaffolds... at +/100.00%
+8	91nt, >SRS064276.scaffolds... at +/100.00%
+9	91nt, >SRS064645.scaffolds... at +/100.00%
+>Cluster 343
+0	91nt, >Alac_ATCC51172_TR1... *
+>Cluster 344
+0	91nt, >SRS011271.scaffolds... *
+1	91nt, >SRS024331.scaffolds... at +/100.00%
+>Cluster 345
+0	89nt, >Rtor_ATCC27756_TR1... at +/96.63%
+1	89nt, >Chat_DSM13479_TR1... at +/95.51%
+2	87nt, >Lbac_3_1_46FAA_TR2... at +/100.00%
+3	89nt, >SRS011134.scaffolds... at +/95.51%
+4	89nt, >SRS011271.scaffolds... at +/95.51%
+5	89nt, >SRS013687.scaffolds... at +/95.51%
+6	91nt, >SRS014459.scaffolds... *
+7	88nt, >SRS014979.scaffolds... at +/98.86%
+8	89nt, >SRS015065.scaffolds... at +/95.51%
+9	89nt, >SRS016018.scaffolds... at +/100.00%
+10	89nt, >SRS017521.scaffolds... at +/100.00%
+11	89nt, >SRS019397.scaffolds... at +/95.51%
+12	89nt, >SRS019910.scaffolds... at +/95.51%
+13	87nt, >SRS051882.scaffolds... at +/98.85%
+14	89nt, >SRS054590.scaffolds... at +/98.88%
+15	89nt, >SRS057478.scaffolds... at +/95.51%
+16	91nt, >SRS058723.scaffolds... at +/100.00%
+>Cluster 346
+0	91nt, >SRS017247.scaffolds... *
+1	91nt, >SRS024075.scaffolds... at +/100.00%
+>Cluster 347
+0	86nt, >SRS012273.scaffolds... at +/97.67%
+1	91nt, >SRS019582.scaffolds... *
+>Cluster 348
+0	91nt, >SRS048870.scaffolds... *
+>Cluster 349
+0	91nt, >SRS050299.scaffolds... *
+>Cluster 350
+0	90nt, >SRS014235.scaffolds... *
+1	88nt, >SRS015190.scaffolds... at +/96.59%
+>Cluster 351
+0	89nt, >Buty_SS3_4_TR1... at +/100.00%
+1	90nt, >SRS015133.scaffolds... *
+2	90nt, >SRS063985.scaffolds... at +/100.00%
+3	90nt, >SRS064276.scaffolds... at +/100.00%
+>Cluster 352
+0	89nt, >SRS014923.scaffolds... *
+1	89nt, >SRS050925.scaffolds... at +/100.00%
+2	89nt, >SRS056259.scaffolds... at +/100.00%
+>Cluster 353
+0	89nt, >SRS015782.scaffolds... *
+>Cluster 354
+0	88nt, >SRS014613.scaffolds... *
+>Cluster 355
+0	88nt, >SRS017307.scaffolds... *
+>Cluster 356
+0	88nt, >SRS018656.scaffolds... *
+>Cluster 357
+0	87nt, >Cclo_2_1_49FAA_TR1... *
+>Cluster 358
+0	87nt, >SRS014459.scaffolds... *
+>Cluster 359
+0	87nt, >SRS015217.scaffolds... *
+1	87nt, >SRS017521.scaffolds... at +/100.00%
+2	87nt, >SRS020233.scaffolds... at +/100.00%
+3	87nt, >SRS051882.scaffolds... at +/100.00%
+>Cluster 360
+0	79nt, >SRS014979.scaffolds... at +/97.47%
+1	87nt, >SRS019161.scaffolds... *
+>Cluster 361
+0	76nt, >SRS011529.scaffolds... at +/100.00%
+1	86nt, >SRS014287.scaffolds... *
+2	86nt, >SRS014459.scaffolds... at +/100.00%
+3	86nt, >SRS015065.scaffolds... at +/100.00%
+4	86nt, >SRS015578.scaffolds... at +/100.00%
+5	86nt, >SRS021484.scaffolds... at +/100.00%
+6	86nt, >SRS058770.scaffolds... at +/100.00%
+7	86nt, >SRS062427.scaffolds... at +/100.00%
+>Cluster 362
+0	86nt, >SRS064645.scaffolds... *
+>Cluster 363
+0	84nt, >Nspu_CCY9414_TR1... *
+>Cluster 364
+0	83nt, >SRS015960.scaffolds... *
+>Cluster 365
+0	82nt, >Lbac_2_1_58FAA_TR1... *
+>Cluster 366
+0	82nt, >SRS016335.scaffolds... *
+1	82nt, >SRS049164.scaffolds... at +/100.00%
+>Cluster 367
+0	81nt, >Paes_DSM271_TR2... *
+>Cluster 368
+0	81nt, >SRS017191.scaffolds... *
+>Cluster 369
+0	81nt, >SRS024132.scaffolds... *
+>Cluster 370
+0	79nt, >SRS043411.scaffolds... *
+>Cluster 371
+0	78nt, >SRS018817.scaffolds... *
+1	78nt, >SRS018817.scaffolds... at +/100.00%
+>Cluster 372
+0	77nt, >SRS014459.scaffolds... *
+>Cluster 373
+0	75nt, >SRS021484.scaffolds... *
+1	74nt, >SRS024075.scaffolds... at +/98.65%
+>Cluster 374
+0	73nt, >SRS013951.scaffolds... at +/100.00%
+1	74nt, >SRS013951.scaffolds... *
+>Cluster 375
+0	73nt, >Lbac_1_4_56FAA_TR1... *
+>Cluster 376
+0	73nt, >SRS015133.scaffolds... *
+1	73nt, >SRS024132.scaffolds... at +/100.00%
+>Cluster 377
+0	68nt, >SRS020233.scaffolds... at +/100.00%
+1	72nt, >SRS020233.scaffolds... *
+2	72nt, >SRS022071.scaffolds... at +/100.00%
+3	69nt, >SRS024009.scaffolds... at +/98.55%
+>Cluster 378
+0	72nt, >SRS050925.scaffolds... *
+>Cluster 379
+0	72nt, >SRS077730.scaffolds... *
+>Cluster 380
+0	66nt, >SRS019161.scaffolds... *
+>Cluster 381
+0	63nt, >SRS047044.scaffolds... *
+>Cluster 382
+0	62nt, >SRS023468.scaffolds... *

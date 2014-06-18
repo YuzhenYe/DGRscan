@@ -1,0 +1,9 @@
+Database of reverse transcriptases:
+ 1) 155 genes identified from complete genomes
+    RT-155*
+
+ 2) 90% nonredundant set of all reverse transcriptases (155 from complete genomes + others from the human virome & HMP datasets)
+    ref155-hv-hmasm-rt-cdhit0.9*
+
+Database of template sequences:
+    ref-hv-hmg-TR-nr0.95

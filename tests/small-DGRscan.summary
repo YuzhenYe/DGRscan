@@ -1,0 +1,10 @@
+Input-seq: small.seq
+
+Template:  shortseq strand: + 1508-1618
+Variable:  shortseq strand: + 140-250 alnlen 110 mutations 17 involve-A 14 involve-T 1
+
+1508       GTGGCGGGGCGAACAACGTTGGCAGCTACGGCTACTGTTGGTCGGCGGTTCCGAACAACCAGAACAACGGTCGCAACCTGAACTTCAACTCGTCGAACGTGAACCCGTTT
+           ::::::::::::::: :::::::  :::::::  ::::::::::::::::::: ::: :::: :: ::::: ::: :::: :::::  :::::::  :::: ::::::::
+140        GTGGCGGGGCGAACAGCGTTGGCTTCTACGGCGTCTGTTGGTCGGCGGTTCCGTACAGCCAGTACCACGGTTGCACCCTGGACTTCTCCTCGTCGTCCGTGTACCCGTTT
+
+Total tr-vr pair: 1

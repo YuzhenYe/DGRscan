@@ -1,0 +1,284 @@
+>Cluster 0
+0	527aa, >gi|297374652|emb|CB... *
+>Cluster 1
+0	524aa, >gi|350551816|ref|ZP... *
+>Cluster 2
+0	507aa, >gi|308273696|emb|CB... *
+>Cluster 3
+0	504aa, >gi|150007547|ref|YP... *
+>Cluster 4
+0	496aa, >gi|298385378|ref|ZP... *
+>Cluster 5
+0	473aa, >gi|160885942|ref|ZP... *
+1	473aa, >gi|237716228|ref|ZP... at 97.89%
+2	441aa, >gi|237721078|ref|ZP... at 98.87%
+3	473aa, >gi|253568001|ref|ZP... at 99.15%
+4	473aa, >gi|293372957|ref|ZP... at 99.15%
+5	473aa, >gi|298480981|ref|ZP... at 98.10%
+6	473aa, >gi|315918944|ref|ZP... at 98.52%
+>Cluster 6
+0	473aa, >gi|299145828|ref|ZP... *
+>Cluster 7
+0	439aa, >gi|253570541|ref|ZP... at 98.41%
+1	473aa, >gi|293369862|ref|ZP... *
+>Cluster 8
+0	470aa, >gi|83310593|ref|YP_... *
+>Cluster 9
+0	467aa, >gi|291612675|ref|YP... *
+>Cluster 10
+0	463aa, >gi|83309559|ref|YP_... *
+>Cluster 11
+0	463aa, >gi|340788559|ref|YP... *
+>Cluster 12
+0	460aa, >gi|160888221|ref|ZP... *
+>Cluster 13
+0	455aa, >gi|254523226|ref|ZP... *
+>Cluster 14
+0	431aa, >gi|315923025|ref|ZP... at 98.38%
+1	431aa, >gi|336402102|ref|ZP... at 98.38%
+2	451aa, >gi|336413450|ref|ZP... *
+>Cluster 15
+0	441aa, >gi|313147952|ref|ZP... at 96.83%
+1	447aa, >gi|325279507|ref|YP... *
+2	447aa, >gi|336410996|ref|ZP... at 95.30%
+>Cluster 16
+0	445aa, >gi|238027140|ref|YP... *
+>Cluster 17
+0	442aa, >gi|210634695|ref|ZP... *
+>Cluster 18
+0	439aa, >gi|298387225|ref|ZP... *
+>Cluster 19
+0	437aa, >gi|257439360|ref|ZP... *
+1	437aa, >gi|260587208|ref|ZP... at 98.40%
+2	381aa, >gi|355629964|ref|ZP... at 99.21%
+>Cluster 20
+0	436aa, >gi|345883525|ref|ZP... *
+>Cluster 21
+0	434aa, >gi|126090247|ref|YP... *
+1	434aa, >gi|262403399|ref|ZP... at 94.93%
+>Cluster 22
+0	223aa, >gi|260642123|ref|ZP... at 98.21%
+1	434aa, >gi|265750836|ref|ZP... *
+>Cluster 23
+0	434aa, >gi|294778518|ref|ZP... *
+>Cluster 24
+0	433aa, >gi|189463015|ref|ZP... *
+>Cluster 25
+0	433aa, >gi|261880961|ref|ZP... *
+>Cluster 26
+0	432aa, >gi|167759158|ref|ZP... *
+1	432aa, >gi|323691302|ref|ZP... at 97.45%
+>Cluster 27
+0	426aa, >gi|332654472|ref|ZP... *
+>Cluster 28
+0	425aa, >gi|253578879|ref|ZP... *
+>Cluster 29
+0	425aa, >gi|291621968|emb|CA... *
+>Cluster 30
+0	425aa, >gi|331088842|ref|ZP... *
+>Cluster 31
+0	425aa, >gi|332534155|ref|ZP... *
+>Cluster 32
+0	425aa, >gi|350574651|ref|ZP... *
+>Cluster 33
+0	424aa, >gi|120599269|ref|YP... *
+>Cluster 34
+0	424aa, >gi|238909111|ref|YP... *
+1	416aa, >gi|291526343|emb|CB... at 97.36%
+>Cluster 35
+0	422aa, >gi|161789197|ref|YP... *
+>Cluster 36
+0	421aa, >gi|332533803|ref|ZP... *
+>Cluster 37
+0	418aa, >gi|291522399|emb|CB... *
+>Cluster 38
+0	417aa, >gi|257440840|ref|ZP... *
+>Cluster 39
+0	414aa, >gi|23335577|ref|ZP_... *
+1	411aa, >gi|154488049|ref|ZP... at 92.94%
+2	411aa, >gi|291517473|emb|CB... at 93.19%
+>Cluster 40
+0	413aa, >gi|294674266|ref|YP... *
+>Cluster 41
+0	409aa, >gi|189425132|ref|YP... *
+>Cluster 42
+0	409aa, >gi|313113756|ref|ZP... *
+>Cluster 43
+0	407aa, >gi|283796807|ref|ZP... *
+>Cluster 44
+0	407aa, >gi|332653877|ref|ZP... *
+>Cluster 45
+0	401aa, >gi|167754333|ref|ZP... *
+>Cluster 46
+0	400aa, >gi|355625064|ref|ZP... *
+>Cluster 47
+0	400aa, >gi|291561321|emb|CB... *
+>Cluster 48
+0	399aa, >gi|90580666|ref|ZP_... *
+>Cluster 49
+0	399aa, >gi|148359926|ref|YP... *
+>Cluster 50
+0	399aa, >gi|331089069|ref|ZP... *
+>Cluster 51
+0	398aa, >gi|153815102|ref|ZP... *
+1	398aa, >gi|355681483|ref|ZP... at 94.47%
+>Cluster 52
+0	398aa, >gi|266622220|ref|ZP... *
+1	398aa, >gi|323485151|ref|ZP... at 97.99%
+>Cluster 53
+0	396aa, >gi|323485235|ref|ZP... *
+>Cluster 54
+0	395aa, >gi|167763773|ref|ZP... *
+1	395aa, >gi|298480077|ref|ZP... at 99.24%
+>Cluster 55
+0	393aa, >gi|187929429|ref|YP... *
+>Cluster 56
+0	389aa, >gi|229815313|ref|ZP... *
+>Cluster 57
+0	386aa, >gi|160932588|ref|ZP... *
+>Cluster 58
+0	385aa, >gi|322688997|ref|YP... *
+>Cluster 59
+0	382aa, >gi|257792377|ref|YP... *
+>Cluster 60
+0	381aa, >gi|154502436|ref|ZP... *
+>Cluster 61
+0	379aa, >gi|153810696|ref|ZP... *
+>Cluster 62
+0	378aa, >gi|299067086|emb|CB... *
+>Cluster 63
+0	378aa, >gi|319764254|ref|YP... *
+>Cluster 64
+0	377aa, >gi|220934786|ref|YP... *
+>Cluster 65
+0	375aa, >gi|225419931|ref|ZP... *
+>Cluster 66
+0	372aa, >gi|227485876|ref|ZP... *
+>Cluster 67
+0	369aa, >gi|258517326|ref|YP... *
+>Cluster 68
+0	369aa, >gi|291546485|emb|CB... *
+>Cluster 69
+0	368aa, >gi|347538767|ref|YP... *
+>Cluster 70
+0	368aa, >gi|323486088|ref|ZP... *
+>Cluster 71
+0	366aa, >gi|146277368|ref|YP... *
+>Cluster 72
+0	365aa, >gi|312115534|ref|YP... *
+>Cluster 73
+0	364aa, >gi|257093900|ref|YP... *
+>Cluster 74
+0	362aa, >gi|71065017|ref|YP_... *
+>Cluster 75
+0	360aa, >gi|150390313|ref|YP... *
+>Cluster 76
+0	360aa, >gi|139439157|ref|ZP... *
+>Cluster 77
+0	358aa, >gi|225163615|ref|ZP... *
+>Cluster 78
+0	356aa, >gi|253574968|ref|ZP... *
+>Cluster 79
+0	355aa, >gi|126659397|ref|ZP... *
+>Cluster 80
+0	354aa, >gi|338999650|ref|ZP... *
+>Cluster 81
+0	352aa, >gi|17230989|ref|NP_... *
+>Cluster 82
+0	352aa, >gi|119509703|ref|ZP... *
+>Cluster 83
+0	352aa, >gi|119511289|ref|ZP... *
+>Cluster 84
+0	352aa, >gi|126660098|ref|ZP... *
+>Cluster 85
+0	352aa, >gi|186684985|ref|YP... *
+>Cluster 86
+0	352aa, >gi|332707562|ref|ZP... *
+>Cluster 87
+0	339aa, >gi|29347723|ref|NP_... at 96.76%
+1	349aa, >gi|301163046|emb|CB... *
+>Cluster 88
+0	346aa, >gi|160938970|ref|ZP... *
+1	346aa, >gi|239625916|ref|ZP... at 99.42%
+2	346aa, >gi|291524999|emb|CB... at 98.55%
+>Cluster 89
+0	345aa, >gi|336433792|ref|ZP... *
+>Cluster 90
+0	345aa, >gi|345893474|ref|ZP... *
+>Cluster 91
+0	345aa, >gi|355386195|gb|EHG... *
+>Cluster 92
+0	344aa, >gi|78189651|ref|YP_... *
+>Cluster 93
+0	344aa, >gi|194337359|ref|YP... *
+>Cluster 94
+0	343aa, >gi|119356297|ref|YP... *
+>Cluster 95
+0	343aa, >gi|194337212|ref|YP... *
+>Cluster 96
+0	343aa, >gi|218961492|ref|YP... *
+>Cluster 97
+0	343aa, >gi|257094650|ref|YP... *
+>Cluster 98
+0	343aa, >gi|336435571|ref|ZP... *
+>Cluster 99
+0	342aa, >gi|134299090|ref|YP... *
+>Cluster 100
+0	342aa, >gi|332655364|ref|ZP... *
+>Cluster 101
+0	341aa, >gi|189460481|ref|ZP... *
+>Cluster 102
+0	339aa, >gi|171058937|ref|YP... *
+>Cluster 103
+0	337aa, >gi|194335165|ref|YP... *
+>Cluster 104
+0	337aa, >gi|344343882|ref|ZP... *
+>Cluster 105
+0	336aa, >gi|167841733|ref|ZP... *
+>Cluster 106
+0	336aa, >gi|291513637|emb|CB... *
+>Cluster 107
+0	336aa, >gi|313147618|ref|ZP... *
+>Cluster 108
+0	334aa, >gi|345871758|ref|ZP... *
+>Cluster 109
+0	334aa, >gi|355363092|gb|EHG... *
+>Cluster 110
+0	333aa, >gi|341642641|gb|EGS... *
+>Cluster 111
+0	331aa, >gi|312962032|ref|ZP... *
+>Cluster 112
+0	329aa, >gi|332666264|ref|YP... *
+>Cluster 113
+0	328aa, >gi|41179367|ref|NP_... *
+>Cluster 114
+0	328aa, >gi|42527768|ref|NP_... *
+>Cluster 115
+0	324aa, >gi|348026361|ref|YP... *
+>Cluster 116
+0	311aa, >gi|291614412|ref|YP... *
+>Cluster 117
+0	309aa, >gi|167758195|ref|ZP... *
+>Cluster 118
+0	308aa, >gi|218295563|ref|ZP... *
+>Cluster 119
+0	303aa, >gi|27311204|ref|NP_... *
+>Cluster 120
+0	290aa, >gi|317498222|ref|ZP... *
+>Cluster 121
+0	288aa, >gi|113474819|ref|YP... *
+>Cluster 122
+0	281aa, >gi|158333546|ref|YP... *
+>Cluster 123
+0	271aa, >gi|237710620|ref|ZP... *
+1	271aa, >gi|237720926|ref|ZP... at 91.51%
+>Cluster 124
+0	260aa, >gi|344341810|ref|ZP... *
+>Cluster 125
+0	228aa, >gi|160944040|ref|ZP... *
+>Cluster 126
+0	182aa, >gi|338762709|gb|EGP... *
+>Cluster 127
+0	161aa, >gi|154504579|ref|ZP... *
+>Cluster 128
+0	93aa, >gi|291561556|emb|CB... *
